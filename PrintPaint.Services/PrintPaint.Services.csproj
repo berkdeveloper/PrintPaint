@@ -8,4 +8,11 @@
     <PackageReference Include="AutoMapper" Version="10.1.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Abstract\" />
+    <Folder Include="AutoMapper\" />
+    <Folder Include="Concrete\" />
+    <Folder Include="Extensions\" />
+  </ItemGroup>
+
 </Project>
