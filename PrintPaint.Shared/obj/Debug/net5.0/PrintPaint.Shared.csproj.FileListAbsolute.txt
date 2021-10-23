@@ -1,0 +1,12 @@
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Shared\bin\Debug\net5.0\PrintPaint.Shared.deps.json
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Shared\bin\Debug\net5.0\PrintPaint.Shared.dll
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Shared\bin\Debug\net5.0\ref\PrintPaint.Shared.dll
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Shared\bin\Debug\net5.0\PrintPaint.Shared.pdb
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Shared\obj\Debug\net5.0\PrintPaint.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Shared\obj\Debug\net5.0\PrintPaint.Shared.AssemblyInfoInputs.cache
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Shared\obj\Debug\net5.0\PrintPaint.Shared.AssemblyInfo.cs
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Shared\obj\Debug\net5.0\PrintPaint.Shared.csproj.CoreCompileInputs.cache
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Shared\obj\Debug\net5.0\PrintPaint.Shared.dll
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Shared\obj\Debug\net5.0\ref\PrintPaint.Shared.dll
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Shared\obj\Debug\net5.0\PrintPaint.Shared.pdb
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Shared\obj\Debug\net5.0\PrintPaint.Shared.csproj.AssemblyReference.cache

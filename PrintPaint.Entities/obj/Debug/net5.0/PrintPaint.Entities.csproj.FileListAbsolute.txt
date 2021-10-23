@@ -1,0 +1,12 @@
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Entities\bin\Debug\net5.0\PrintPaint.Entities.deps.json
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Entities\bin\Debug\net5.0\PrintPaint.Entities.dll
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Entities\bin\Debug\net5.0\ref\PrintPaint.Entities.dll
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Entities\bin\Debug\net5.0\PrintPaint.Entities.pdb
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Entities\obj\Debug\net5.0\PrintPaint.Entities.csproj.AssemblyReference.cache
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Entities\obj\Debug\net5.0\PrintPaint.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Entities\obj\Debug\net5.0\PrintPaint.Entities.AssemblyInfoInputs.cache
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Entities\obj\Debug\net5.0\PrintPaint.Entities.AssemblyInfo.cs
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Entities\obj\Debug\net5.0\PrintPaint.Entities.csproj.CoreCompileInputs.cache
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Entities\obj\Debug\net5.0\PrintPaint.Entities.dll
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Entities\obj\Debug\net5.0\ref\PrintPaint.Entities.dll
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Entities\obj\Debug\net5.0\PrintPaint.Entities.pdb

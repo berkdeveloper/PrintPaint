@@ -1,0 +1,12 @@
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Data\bin\Debug\net5.0\PrintPaint.Data.deps.json
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Data\bin\Debug\net5.0\PrintPaint.Data.dll
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Data\bin\Debug\net5.0\ref\PrintPaint.Data.dll
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Data\bin\Debug\net5.0\PrintPaint.Data.pdb
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Data\obj\Debug\net5.0\PrintPaint.Data.csproj.AssemblyReference.cache
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Data\obj\Debug\net5.0\PrintPaint.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Data\obj\Debug\net5.0\PrintPaint.Data.AssemblyInfoInputs.cache
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Data\obj\Debug\net5.0\PrintPaint.Data.AssemblyInfo.cs
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Data\obj\Debug\net5.0\PrintPaint.Data.csproj.CoreCompileInputs.cache
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Data\obj\Debug\net5.0\PrintPaint.Data.dll
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Data\obj\Debug\net5.0\ref\PrintPaint.Data.dll
+C:\Users\berks\source\repos\PrintPaint\PrintPaint.Data\obj\Debug\net5.0\PrintPaint.Data.pdb

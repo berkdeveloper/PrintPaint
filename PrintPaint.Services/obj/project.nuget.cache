@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kVqauf/8r4F/+HUU0qtj+x8o0GC9U/u+JKWnXBNEzwn9CyxYiGeVwS68ss14ee5CngVcmOIGQTc65LPafxhcGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berks\\source\\repos\\PrintPaint\\PrintPaint.Services\\PrintPaint.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berks\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\berks\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\berks\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
